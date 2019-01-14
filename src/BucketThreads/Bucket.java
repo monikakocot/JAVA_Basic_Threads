@@ -11,4 +11,5 @@ public class Bucket {
     public void setProduct(long product) {
         this.product = product;
     }
+
 }
